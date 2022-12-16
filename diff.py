@@ -1,4 +1,4 @@
 def diff(a,b):
-    return a-b;
+    return (a-b);
 
-print(7,2)
+print(diff(7,2))
